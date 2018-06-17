@@ -35,4 +35,4 @@ jobs:
       - get: dependency-cache
         passed: [Install dependencies]
       - task: run the test suite
-        file: hello_hapi/ci/tasks/run_tests.yml
+        file: concourse-project/ci/tasks/run_tests.yml

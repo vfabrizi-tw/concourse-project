@@ -9,9 +9,9 @@ image_resource:
 
 
 inputs:
-  - name: hello_hapi
+  - name: hello_api
   - name: dependency-cache
 
 
 run:
-  path: hello_api/ci/scripts/run_tests.sh
+  path: concourse-project/ci/scripts/run_tests.sh
