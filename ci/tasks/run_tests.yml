@@ -9,7 +9,7 @@ image_resource:
 
 
 inputs:
-  - name: hello_api
+  - name: hello_hapi
   - name: dependency-cache
 
 
