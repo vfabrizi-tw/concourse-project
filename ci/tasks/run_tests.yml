@@ -14,4 +14,4 @@ inputs:
 
 
 run:
-  path: concourse-project/ci/scripts/run_tests.sh
+  path: hello_hapi/ci/scripts/run_tests.sh
